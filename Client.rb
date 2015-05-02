@@ -1,6 +1,6 @@
 require 'socket'
 
-s = TCPSocket.new 'localhoast', 9001
+s = TCPSocket.new 'localhost',9001
 
 while line = s.gets
   puts line
