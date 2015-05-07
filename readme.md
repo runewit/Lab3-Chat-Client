@@ -9,5 +9,5 @@ At the moment, there is no guard against multiple people entering the same
 	all caps as the first input, then it will prompt the user for additional
 	input.
 
-There is really no testing for this program at the moment, though I intend
+There is really no testing for this program at the moment, though I intended
 	to add useful tests to the test_server file and make a test_client file.
